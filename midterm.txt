@@ -1,0 +1,6 @@
+1. A function
+2. Keyword argument
+3. Both are used to pass arguments into functions and can take any number of arguments, but args don’t use keywords while kwargs need to be assigned key words
+4.(_,_,_) as in start index, step count, and skip value
+5. An if statement (can include elif and else)
+6. Iteration
